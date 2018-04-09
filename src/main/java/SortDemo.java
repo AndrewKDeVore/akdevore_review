@@ -1,7 +1,7 @@
 package main.java;
 
 
-// SortDemo.java    
+// SortDemo.java   
 //                                              
 // Demonstrates various sorting algorithms on an array generated from a
 // text area by StringTokenizer
