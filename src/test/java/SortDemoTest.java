@@ -11,7 +11,7 @@ import main.java.SortDemoData;
 
 class SortDemoTest {
 
-    SortDemoData data = new SortDemoData();
+	SortDemoData data = new SortDemoData();
 
 
     /**
@@ -89,5 +89,5 @@ class SortDemoTest {
     //     assertTrue(data.myArray[1].key == data2.myArray[1].key );
     //     assertTrue(data.myArray[2].key == data2.myArray[2].key );
     // }
-    
+
 }
